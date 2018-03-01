@@ -1,1 +1,3 @@
-# tpsedgitpr : Dumb project to test pull-request mode with gihub
+# tpsedgitpr 
+
+Goal: Dumb project to test pull-request mode with gihub
